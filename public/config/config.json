@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "PGRobotsV2",
   "SYMBOL": "PGR",
-  "MAX_SUPPLY": 3500
+  "MAX_SUPPLY": 3500,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
