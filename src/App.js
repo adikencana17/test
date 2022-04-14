@@ -391,8 +391,7 @@ function App() {
           </s.TextDescription>
         </s.Container>
       </s.Container>
-    </s.Screen>
-  );
+    );
 }
 
 export default App;
