@@ -367,9 +367,7 @@ function App() {
               </>
             )}
             <s.SpacerMedium />
-   
-        </ResponsiveWrapper>
-        <s.SpacerMedium />
+          <s.SpacerMedium />
         <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
           <s.TextDescription
             style={{
